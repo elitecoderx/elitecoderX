@@ -14,6 +14,7 @@
 <a href=""><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/></a>
 </div>
 <br>
+
 - 🔭 I’m currently working on - [securetechAV](https://www.securetechav.com)
 
 - 🌱 I’m currently learning - **Web Developement**
