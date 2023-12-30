@@ -2,10 +2,10 @@
 
 <br>
 <h3 align="center">Passionate developer. Exploring technologies. Solving problems. Honing coding skills. Open for collaborations. Always learning.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elitecoderX&label=Profile%20views&color=e50914&style=flat" alt="elitecoderX" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elitecoderX&label=Profile%20views&color=00ff00&style=flat" alt="elitecoderX" /> </p>
 <div align="left">
 <a href=""><img src="https://img.icons8.com/fluency/32/linkedin.png"/></a>
-<a href=""><img src="https://img.icons8.com/nolan/32/twitterx.png"/></a>
+<a href=""><img src="https://img.icons8.com/color/32/twitterx--v1.png"/></a>
 <a href=""><img src="https://img.icons8.com/fluency/32/meta.png"/></a>
 <a href=""><img src="https://img.icons8.com/color/32/instagram-new.png"/></a>
 <a href=""><img src="https://img.icons8.com/stickers/32/stackoverflow.png"/></a>
