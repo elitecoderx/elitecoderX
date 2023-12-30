@@ -29,25 +29,25 @@
 <div align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=elitecoderX&show_icons=true&card_width=420&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api?username=elitecoderX&show_icons=true&card_width=400&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=elitecoderX&show_icons=true&card_width=420"
+    srcset="https://github-readme-stats.vercel.app/api?username=elitecoderX&show_icons=true&card_width=400"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=elitecoderX&show_icons=true&card_width=420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elitecoderX&show_icons=true&card_width=400" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=elitecoderX&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=420&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=elitecoderX&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=400&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=elitecoderX&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=420"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=elitecoderX&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=400"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elitecoderX&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elitecoderX&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=400" />
 </picture>
   </div>
 <div align="center">
