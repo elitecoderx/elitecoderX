@@ -6,14 +6,7 @@
 
 <br>
 
-
-- 🌱 I’m currently learning - **express.js**
-
-- 📫 How to reach me - **sachinprajapati09890@gmail.com**
-
-- 📄 Know about me - [Resume](https://drive.google.com/file/d/1r2ISMEXWev2aGaEg_uBbIW_lEidLdeCK/view?usp=sharing)
-
-- ⚡ Fun fact - **I always find a way to have fun.😂**
+- 📄 Portfolio - [https://elitecoderx.pythonanywhere.com/](https://elitecoderx.pythonanywhere.com/)
 
 <br>
 <div align="center">
