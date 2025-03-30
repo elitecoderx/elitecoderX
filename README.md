@@ -6,8 +6,8 @@
 
 <br>
 
-- 🧑‍💻 Portfolio - [Visit](https://elitecoderx.pythonanywhere.com/)
-- 🤞 Linked-in - [Visit](https://www.linkedin.com/in/elitecoderx)
+- 🧑‍💻 Portfolio - [elitecoderx.pythonanywhere.com/](https://elitecoderx.pythonanywhere.com/)
+- 🤞 Linkedin - [linkedin.com/in/elitecoderx](https://www.linkedin.com/in/elitecoderx)
 
 <br>
 <div align="center">
